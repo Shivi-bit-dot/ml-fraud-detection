@@ -1,0 +1,14 @@
+# Core ML libraries 
+pandas
+numpy
+scikit-learn
+# API serving 
+fastapi 
+uvicorn 
+pydantic
+ # Testing 
+ pytest
+ pytest-cov 
+ # Utilities 
+ pyarrow
+ 
